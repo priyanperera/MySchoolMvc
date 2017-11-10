@@ -1,0 +1,9 @@
+C:\01.Work\My\NET\MySchool\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+C:\01.Work\My\NET\MySchool\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+C:\01.Work\My\NET\MySchool\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+C:\01.Work\My\NET\MySchool\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\01.Work\My\NET\MySchool\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\01.Work\My\NET\MySchool\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+C:\01.Work\My\NET\MySchool\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+C:\01.Work\My\NET\MySchool\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb
+C:\01.Work\My\NET\MySchool\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csprojResolveAssemblyReference.cache

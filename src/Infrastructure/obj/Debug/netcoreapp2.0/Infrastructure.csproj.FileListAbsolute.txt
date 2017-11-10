@@ -1,0 +1,11 @@
+C:\01.Work\My\NET\MySchool\src\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.deps.json
+C:\01.Work\My\NET\MySchool\src\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.dll
+C:\01.Work\My\NET\MySchool\src\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+C:\01.Work\My\NET\MySchool\src\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\01.Work\My\NET\MySchool\src\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.AssemblyInfoInputs.cache
+C:\01.Work\My\NET\MySchool\src\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.AssemblyInfo.cs
+C:\01.Work\My\NET\MySchool\src\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.dll
+C:\01.Work\My\NET\MySchool\src\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.pdb
+C:\01.Work\My\NET\MySchool\src\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.csprojResolveAssemblyReference.cache
+C:\01.Work\My\NET\MySchool\src\Infrastructure\bin\Debug\netcoreapp2.0\ApplicationCore.dll
+C:\01.Work\My\NET\MySchool\src\Infrastructure\bin\Debug\netcoreapp2.0\ApplicationCore.pdb
